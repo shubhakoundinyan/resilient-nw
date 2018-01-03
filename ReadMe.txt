@@ -8,7 +8,9 @@
 
 OVERVIEW:
 
-Resiliency - A very interesting topic in Computer Networking. The ability to provide uninterrupted and/or acceptable level of service amidst any outages or challenges is termed as "Resilience". Threats and challenges for services can range from simple misconfiguration over large scale natural disasters to targeted attacks.
+What is Resiliency? 
+
+Resiliency - A very interesting topic in Computer Networking. The ability to provide uninterrupted and/or acceptable level of service amidst any outages or challenges is termed as "Resilience". Threats and challenges for services can range from simple misconfiguration over large scale natural disasters to targeted attacks. Ensuring the resiliency feature being a foundational feature in the network is a best/standard practice, but what more can one do with resiliency and how can we make it smarter is the real deal!
 
 WHAT DOES THIS PROGRAM DO:
 
